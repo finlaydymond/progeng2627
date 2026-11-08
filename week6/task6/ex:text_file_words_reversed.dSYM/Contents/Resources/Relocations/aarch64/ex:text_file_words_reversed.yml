@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/finndymond/Desktop/Autumn26/week6/task6/ex:text_file_words_reversed'
+relocations:     []
+...
