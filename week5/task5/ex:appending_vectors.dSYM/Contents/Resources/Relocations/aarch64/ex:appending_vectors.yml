@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/finndymond/Desktop/Autumn26/week5/task5/ex:appending_vectors'
+relocations:     []
+...
