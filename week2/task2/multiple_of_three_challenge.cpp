@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main(){
+    int num;
+    std::cout << "Enter a number: ";
+    std::cin >> num;
+    if(num % 3 == 0){
+        std::cout << num << " is divisible by 3" << std::endl;
+    }
+    else{
+        std::cout << num << " is not divisible by 3"<< std::endl;
+    }
+}
